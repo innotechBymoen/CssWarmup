@@ -1,0 +1,15 @@
+img {
+    width: 500px;
+    border-radius: 20px;
+}
+
+h1 {
+    font-family: cursive;
+    margin: 30px;
+}
+
+p {
+    background-color: rgb(4, 255, 255);
+    width: 500px;
+    display: inline-block;
+}
